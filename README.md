@@ -11,7 +11,8 @@ Visualizing data with D3.js
 
 ## Setup
 * Clone / download repo for starter files
-* Or create your own html file with the D3.js script:  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
+* Or create your own html file with the D3.js script:  
+<pre><script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script></pre>
 
 
 
