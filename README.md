@@ -1,4 +1,4 @@
-# d3
+# D3.js
 Visualizing data with D3.js
 
 ## Links
