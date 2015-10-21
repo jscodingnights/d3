@@ -16,8 +16,8 @@ Visualizing data with D3.js
 
 
 ## Challenge
-* Learn the basics of D3.js by building a bar graph: http://bost.ocks.org/mike/bar/
-* Animate the chart on load
+* Learn the basics of D3.js by building a bar graph: http://bost.ocks.org/mike/bar/ (use index.html file in this repo as a starting point)
+* Animate the chart so the bars "grow" on load 
 * Build a scatter plot
 * Build a pie chart
 
